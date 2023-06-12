@@ -262,6 +262,64 @@
         "runtime": 152,
         "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
         "image_url": "data:image/jpeg;base64,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"
+    },
+    {
+      "title": "The Lord of the Rings: The Return of the King",
+      "releaseDate": "2003-12-17",
+      "genre": "Fantasy",
+      "rating": 9.0,
+      "description": "The Fellowship of the Ring has broken apart and Frodo continues his journey to Mordor alone. Meanwhile, Aragorn, Legolas, and Gimli try to unite the Free Peoples of Middle-earth in the War of the Ring.",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_xFTGt-b8bQcun8rrBYMezpwuEFbKC1LbKEjOq_D33yCgVgOwHeLJoc0uRZzxIS5OMZlRw3RdWm2hR7yDf9Pucfx9cY6cJoTekIwJ0Hu4HTUOX28McLgR3UQgYk6_Hd7BbZSg4Zx_KX-tqS=w250-h200-p"
+      
+    },
+    {
+      "title": "Pulp Fiction",
+      "releaseDate": "1994-09-10",
+      "genre": "Crime",
+      "rating": 8.9,
+      "description": "A series of violent and comedic vignettes, including a boxer, a gangster's wife, a pair of diner bandits, and a pair of mob hitmen, are woven together in this acclaimed crime thriller.",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_zBITItpwOKTsVItR8R-319PaIBeDOWLo6upa-wssYqOgGzpfFIpDi5M3I0VPI8O9hGdXQckZ2quoSBuvAIOnVe3RST6D6UssrlQEkxpK6cj6vl-ksfkgdrkgwL7sjzFq-FENhznP3Xak5ytn1HqU4TLkwBOJebVVmus57LbSn5qTgefiUiy8IcmNzNZngd_Wq4R3Duu2OeomhwICdPgv6M=w250-h200-p"
+    },
+    {
+      "title": "The Shining",
+      "releaseDate": "1980-05-23",
+      "genre": "Horror",
+      "rating": 8.5,
+      "description": "An aspiring writer takes his wife and son to an isolated hotel for the winter where he hopes to find peace and quiet to finish his new book. However, they soon discover that the hotel has a dark and sinister history.",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_xz7ljDO4NTWRctJw46XgDpweYm9T920RoulS6PuBQIIVCetuZGld1z3p81KjhqA5dJAyC8-taegc91Ab1pgBn4a18fJw9AqAMjQOkqKzue0Fvm4Waaf6t98mnqCGrKUrh7DbLyM4MdVGegvS7MhwdhcRD3JrncwlHu-hIpF_NkEfZvaAG1qJYbf3ugh70lSa4GiuI26yoVfPQJnwrGhwwxfqHGwFw=w250-h200-p"
+    },
+    {
+      "title": "Fight Club",
+      "releaseDate": "1999-10-15",
+      "genre": "Thriller",
+      "rating": 8.8,
+      "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_zyqRrjOD60tidKgY6bO2sx7u_qac0XDjKRVeFglG-A8SRcNuwxPD9j8L-dcggODUxamtmQfBPO9jIaZZ-W2PsPbN-eBUf6stIiO9R5v8Qb-UGP8eFNxzeVPo0eMtmBMsmbfpX95Zb80Lc9hkEAD-eBNdmwdYhv3WzW9bvbs5Hu1IWayTlODzrmNhAcA9NhaEYHJCWx08xUt71pPr9sP8odppfK=w250-h200-p"
+    },
+    {
+      "title": "The Matrix",
+      "releaseDate": "1999-03-31",
+      "genre": "Action",
+      "rating": 8.7,
+      "description": "Computer hacker Neo learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_zVwB01APvg8R9eFXP5fIkmieAGQ1hleJ4B8ywaBkIf-g6g_02ox-PHQS4wleZmJH4NT5i72a0rIbBEq8LBQ0yYfcjYG9WxGpFAUOrO4p3zuHt8_ta_tBqXBzmFtjJHGynevmzyLy0MQzeZa4CYQUHrcZtW-65_tSaebiRhfKXQ7-qehW0uIiYHJfdkkBA7Ov2DoNEkMzD77zJg3VLcN2YVglwWhn6DTr26SBA9y-Ma11qF6w=w250-h200-p"
+    },
+    {
+      "title": "Inception",
+      "releaseDate": "2010-07-08",
+      "genre": "Action",
+      "rating": 8.8,
+      "description": "A professional thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O..",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_zKETHP85Y7AROt1ozC1KAzHwj8aQ7hf7KuTi3otuyXPcF0a0pHVyaz6sesTTcr_uEoOq92InMPx3hgd2FWypDuqiPREvlKhKp-Y2yKCHWk-Ok1KfdZ_kcHGrg=w250-h200-p"
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "releaseDate": "1966-06-29",
+      "genre": "Western",
+      "rating": 8.8,
+      "description": "A bounty hunter, a bandit and a Mexican outlaw race to find a buried treasure trove of Confederate gold.",
+      "image_url": "https://lh3.googleusercontent.com/bip/AKnpU_xCFE6W8-rah2IaGhz9sXfsxQYlJpWgDuoDvkpDSmgxNg3DvhCposR9BJYFuKGhkTE6lzHOJa5F4pWbUDnXUcYSk7ienjcKjNCHMXbYQZdE-jCLnxNoVi7-t0XYnBiJHOIU42f4ZbyPqXrt4ckKW_L10ytXOq4hEuG5uiLo27SY_A=w250-h200-p"
+      
     }
   ]
 }
